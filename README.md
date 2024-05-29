@@ -1,18 +1,26 @@
-## Getting Started
+## Laboratory 2.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+ The implementation of the following UML diagrams is required. Create clean and maintainable code by adhering to standards and techniques.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The workspace contains three main folders, each representing a different project diagram, where:
 
-- `src`: the folder to maintain sources
+### DIAGRAM1
+- `.vscode`: the folder to maintain VS Code configurations
 - `lib`: the folder to maintain dependencies
+- `src`: the folder to maintain sources
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### DIAGRAM2
+- `.vscode`: the folder to maintain VS Code configurations
+- `bin`: the folder where the compiled output files will be generated
+- `lib`: the folder to maintain dependencies
+- `src`: the folder to maintain sources
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### DIAGRAM3
+- `.vscode`: the folder to maintain VS Code configurations
+- `lib`: the folder to maintain dependencies
+- `src`: the folder to maintain sources
 
-## Dependency Management
+> The structure shown here can be modified without prior notice.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
